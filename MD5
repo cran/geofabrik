@@ -1,0 +1,11 @@
+b3fd1e13e91b2fda0edd26524ebf78a8 *DESCRIPTION
+cab93dbe22e38a82d223433c596e2dac *LICENSE
+e17a8f520c99473a832fba2f16906e3e *NAMESPACE
+728fcd15be36c4f079c304ba70e0ab86 *R/data.R
+b4fe12876c37f8a22cde06e9701eecf0 *R/geofabrik-package.R
+19eac9c352f3ec0995a9f19f2cb4d536 *R/get_osm.R
+a27d8ea8e04638ddd03e20015da18682 *R/zzz.R
+6e2686104f5c4f922e52d1fb5dbc3039 *data/urlgeo.rda
+5002c1490a9e365432ebc114cd53a5ae *man/geofabrik-package.Rd
+3dce716abe815b00f8a9d0e80536e28c *man/get_osm.Rd
+22676324da1f43b443cd8116501399c5 *man/urlgeo.Rd
